@@ -1,0 +1,2 @@
+# GitHubActions
+For practising GitHubActions
